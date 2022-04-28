@@ -13,8 +13,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [live site](https://ketannegi.github.io/Flyo_data_frontentmentor/)
 
 ## My process
 
@@ -26,7 +25,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ## Author
 
-- Website - [githun]()
+- Website - [githun](https://github.com/ketannegi/Flyo_data_frontentmentor/edit/main)
 - Frontend Mentor - [@ketannegi](https://www.frontendmentor.io/profile/ketannegi)
 
 *
